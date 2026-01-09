@@ -1,4 +1,4 @@
-# Machine Learning for Degeneration Families of Calabi–Yau Manifolds in CP^n
+# Machine Learning for Degeneration Families of Calabi–Yau Manifolds in CP<sup>n</sup>
 
 This repository contains the code from my master's thesis: "Machine Learning for Degeneration Families of Calabi-Yau Manifolds in CP^n"
 
