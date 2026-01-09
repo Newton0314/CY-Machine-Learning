@@ -8,5 +8,5 @@ This repository contains the code from my master's thesis: "Machine Learning for
 
 
 ## Key Results
-- Trained 128k sample points for 500 epochs, achieved RMSE < 0.0001.
-- Proposed two research-level conjectures, based on numerical evidence, relating dimension-collapsing of the degeneration family and the eigenvalues of the CY metric tensor.
+- Trained 128k sample points for 500 epochs, achieved RMSE < 0.0001 (please see Section 4.3 and 4.4 of the paper for further details).
+- Proposed two research-level conjectures, based on numerical evidence, relating dimension-collapsing of the degeneration family and the eigenvalues of the CY metric tensor (Section 4.5).
