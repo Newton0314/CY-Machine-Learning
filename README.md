@@ -4,7 +4,7 @@ This repository contains the code from my master's thesis: "Machine Learning for
 
 ## Goals
 - Goal 1: numerically approximate the Calabi–Yau metric of K3 surfaces, via solving the Monge-Ampère PDE.
-- Approach: Train a neural-network based PDE solver (TensorFlow, with the Adam optimiser), minimising the Monge-Ampère (or Kähler) loss.
+- Approach: train a neural-network based PDE solver (TensorFlow, with the Adam optimiser), minimising the Monge-Ampère (or Kähler) loss.
 - Goal 2: numerically classify the complex structure limits of a family of CY manifolds, via considering the growth rate of the holomorphic volume.
 - Approach: numerically compute the holomorphic volume growth rate, by using Monte-Carlo integration with respect to the Fubini-Study measure on CP<sup>n</sup>.
 
