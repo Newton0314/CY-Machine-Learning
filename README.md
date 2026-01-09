@@ -1,10 +1,10 @@
 # Machine Learning for Degeneration Families of Calabi–Yau Manifolds in CP<sup>n</sup>
 
-This repository contains the code from my master's thesis: "Machine Learning for Degeneration Families of Calabi-Yau Manifolds in CP^n"
+This repository contains the code from my master's thesis: "Machine Learning for Degeneration Families of Calabi-Yau Manifolds in CP<sup>n</sup>"
 
 ## Goal
 - Goal: numerically approximate the Calabi–Yau metric of K3 surfaces, via solving the Monge-Ampère PDE.
-- Approach: Train a neural-network based PDE solver (TensorFlow, with the Adam optimiser), minimising the Monge-Ampère (or Kahler) loss.
+- Approach: Train a neural-network based PDE solver (TensorFlow, with the Adam optimiser), minimising the Monge-Ampère (or Kähler) loss.
 
 
 ## Key Results
